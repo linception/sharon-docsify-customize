@@ -1,6 +1,6 @@
 # Sharon 自定义 docsify
 
-> 仅个人使用。
+> 仅供个人使用。
 
 ## 快速开始
 
@@ -8,8 +8,8 @@
 
 ```html
 <!-- 引入 css -->
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/sharon-docsify/index.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/sharon-docsify-customize@1.0.1/index.css">
 
 <!-- 引入 js -->
-<script src="//cdn.jsdelivr.net/npm/sharon-docsify/index.js"></script>
+<script src="//cdn.jsdelivr.net/npm/sharon-docsify-customize@1.0.1/index.js"></script>
 ```
