@@ -1,0 +1,15 @@
+{
+  "name": "sharon-docsify-customize",
+  "version": "1.0.0",
+  "description": "sharon's docsify customize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linception/sharon-docsify-customize.git"
+  },
+  "author": "Sharon Lee",
+  "license": "ISC"
+}
