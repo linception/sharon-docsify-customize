@@ -14,7 +14,7 @@ window.$docsify.markdown = {
           if (relative.startsWith('/')) {
               relative = relative.substr(1);
           }
-          return relative;
+          return './' + relative;
       },
       // 解决非markdown链接路径问题
       link: function (href) {

@@ -1,6 +1,6 @@
 {
   "name": "sharon-docsify-customize",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "sharon's docsify customize",
   "main": "index.js",
   "scripts": {
